@@ -71,7 +71,7 @@ body {
     color: orangered;
 }
 
-.checkbox {
+.checkbox1 {
     text-align: center;
 
 }
@@ -90,7 +90,7 @@ body {
     font-weight: 900;
     margin: auto;
     text-align: center;
-    width: 80%;
+    width: 100%;
     position: relative;
 }
 
